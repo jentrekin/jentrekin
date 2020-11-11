@@ -8,7 +8,7 @@ Since 2019 I've been working towards a more exciting and challenging life that b
 
 ### What I'm focusing on 👨‍💻
 
-Currently improving my React skills: NextJS, Gatsby JS and React Native.<br />
+Currently improving my skills: SEO, Wordpress, and Javascript.<br />
 
 
 ### My most recent work on [dev.to](https://www.kaylajamesllc.com) 😃🧾
@@ -21,7 +21,7 @@ Currently improving my React skills: NextJS, Gatsby JS and React Native.<br />
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/jentrekin/)  [![Twitter Badge](https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/_diogorodrigues)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/jentrekin/)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://instagram.com/jentrekin)](https://instagram.com/jentrekin)
 
 
 **[kaylajamesllc.com](https://www.kaylajamesllc.com)**
