@@ -1,49 +1,32 @@
-<h1 align="center">Awesome GitHub Profile README</h1>
-<div align="center">
-<img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
-<a href="https://zzetao.github.io/awesome-github-profile/"><img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=website&color=%230076D6&style=flat&logo=google-chrome&logoColor=%230076D6" alt="website"/></a>
-<!-- <img src="http://hits.dwyl.com/abhisheknaiidu/awesome-github-profile-readme.svg" alt="Hits Badge"/> -->
-<img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://discord.gg/XTW52Kt"><img src="https://img.shields.io/discord/733027681184251937.svg?style=flat&label=Join%20Community&color=7289DA" alt="Join Community Badge"/></a><br>
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Jessica Entrekin](https://www.diogorodrigues.dev/about)!
 
-<i>A curated list of awesome Github Profile READMEs</i>
+I work as a ~~web designer~~ front-end developer with UI/UX design skills (front-end designer). I´m based in São Paulo, Brazil.
 
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/stargazers"><img src="https://img.shields.io/github/stars/abhisheknaiidu/awesome-github-profile-readme" alt="Stars Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/network/members"><img src="https://img.shields.io/github/forks/abhisheknaiidu/awesome-github-profile-readme" alt="Forks Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/pulls"><img src="https://img.shields.io/github/issues-pr/abhisheknaiidu/awesome-github-profile-readme" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/issues"><img src="https://img.shields.io/github/issues/abhisheknaiidu/awesome-github-profile-readme" alt="Issues Badge"/></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/abhisheknaiidu/awesome-github-profile-readme?color=2b9348"></a>
-<a href="https://github.com/abhisheknaiidu/awesome-github-profile-readme/blob/master/LICENSE"><img src="https://img.shields.io/github/license/abhisheknaiidu/awesome-github-profile-readme?color=2b9348" alt="License Badge"/></a>
+Since 2009 I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
 
-<img alt="Awesome GitHub Profile Readme" src="assets/agpr.gif"> </img>
+[Download my CV.](https://www.diogorodrigues.dev/diogo-rodrigues-frontend-designer-cv.pdf)
 
-<i>Loved the project? Please consider [donating](https://paypal.me/abhisheknaiidu) to help it improve!</i>
+### What I'm focusing on 👨‍💻
 
-</div>
+Currently improving my React skills: NextJS, Gatsby JS and React Native.<br />
+BTW, if you´re looking for a Gatsby starter, take a look at this [Gatsby multi-language starter with CMS](https://github.com/diogorodrigues/iceberg-gatsby-multilang).
 
-### Contents:
-  - [Categories](#categories)
-      - [Github Actions 🤖](#github-actions-)
-      - [Game Mode 🚀](#game-mode-)
-      - [Code Mode 👨🏽‍💻](#code-mode-)
-      - [Dynamic Realtime 💫](#dynamic-realtime-)
-      - [A Little Bit of Everything 😃](#a-little-bit-of-everything-)
-      - [Descriptive 🗒](#descriptive-)
-      - [Simple but Innovative Ones 🤗](#simple-but-innovative-ones-)
-      - [Typing.. Mode 🎰](#typing-mode-)
-      - [Anime 👾](#anime-)
-      - [Minimalistic ✨](#minimalistic-)
-      - [GIFS 👻](#gifs-)
-      - [Just Images 🎭](#just-images-)
-      - [Badges 🎫](#badges-)
-      - [Fancy Fonts 🖋](#fancy-fonts-)
-      - [Icons 🎯](#icons-)
-      - [Retro 😎](#retro-)
-  - [Tools](#tools)
-  - [Articles](#articles)
-  - [Video Tutorials](#tutorials)
-  - [Contribute](#contribute)
-  - [License](#license)
+### My most recent posts on [dev.to](https://dev.to/diogorodrigues) 😃🧾
+<!-- BLOG-POST-LIST:START -->
+- [Automating UI tests with Jest and React Testing Library](https://dev.to/diogorodrigues/automating-ui-tests-with-jest-and-react-testing-library-28fb)
+- [Inspiring web designers and developers to follow on Twitter](https://dev.to/diogorodrigues/inspiring-web-designers-and-developers-to-follow-on-twitter-2p84)
+- [Why I decided to develop my site in Gatsby](https://dev.to/diogorodrigues/why-i-decided-to-develop-my-site-in-gatsby-3poc)
+- [Automating the GitHub workflow for any project](https://dev.to/diogorodrigues/automating-the-github-workflow-for-any-project-33kf)
+- [Tips and resources on how to improve your UI design skills](https://dev.to/diogorodrigues/tips-and-resources-on-how-to-improve-your-ui-design-skills-29i3)
+<!-- BLOG-POST-LIST:END -->
+
+### Find me elsewhere 🌎
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/diogorodrigues02/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/_diogorodrigues)
+
+
+**[diogorodrigues.dev](https://www.diogorodrigues.dev/)**
+
 ### Hi there 👋
 
 <!--
