@@ -1,33 +1,32 @@
-### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Jessica Entrekin](https://www.diogorodrigues.dev/about)!
+### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hello, I'm [Jessica Entrekin](https://www.kaylajamesllc.com)!
 
-I work as a ~~web designer~~ front-end developer with UI/UX design skills (front-end designer). I´m based in São Paulo, Brazil.
+I work as a continuous learner of all front-end items. I´m based in California.
 
-Since 2009 I've been living and breathing web development and creating modern and user friendly interfaces. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
+Since 2019 I've been working towards a more exciting and challenging life that brings my creativity and detail-orientated skill set together. I've had the chance to immerse myself in many different works and projects, helping to make this world a little better through design & code. ✨😍
 
-[Download my CV.](https://www.diogorodrigues.dev/diogo-rodrigues-frontend-designer-cv.pdf)
+[Download my CV.](https://www.kaylajamesllc.com)
 
 ### What I'm focusing on 👨‍💻
 
 Currently improving my React skills: NextJS, Gatsby JS and React Native.<br />
-BTW, if you´re looking for a Gatsby starter, take a look at this [Gatsby multi-language starter with CMS](https://github.com/diogorodrigues/iceberg-gatsby-multilang).
 
-### My most recent posts on [dev.to](https://dev.to/diogorodrigues) 😃🧾
+
+### My most recent work on [dev.to](https://www.kaylajamesllc.com) 😃🧾
 <!-- BLOG-POST-LIST:START -->
-- [Automating UI tests with Jest and React Testing Library](https://dev.to/diogorodrigues/automating-ui-tests-with-jest-and-react-testing-library-28fb)
-- [Inspiring web designers and developers to follow on Twitter](https://dev.to/diogorodrigues/inspiring-web-designers-and-developers-to-follow-on-twitter-2p84)
-- [Why I decided to develop my site in Gatsby](https://dev.to/diogorodrigues/why-i-decided-to-develop-my-site-in-gatsby-3poc)
-- [Automating the GitHub workflow for any project](https://dev.to/diogorodrigues/automating-the-github-workflow-for-any-project-33kf)
-- [Tips and resources on how to improve your UI design skills](https://dev.to/diogorodrigues/tips-and-resources-on-how-to-improve-your-ui-design-skills-29i3)
+- [Thrills of a Passport](https://dev.to/diogorodrigues/automating-ui-tests-with-jest-and-react-testing-library-28fb)
+- [Hadley Thurman, LLC](https://dev.to/diogorodrigues/inspiring-web-designers-and-developers-to-follow-on-twitter-2p84)
+- [Unplugged](https://dev.to/diogorodrigues/why-i-decided-to-develop-my-site-in-gatsby-3poc)
+- [Warstone Innovations, LLC](https://www.warstoneinnovations.com)
 <!-- BLOG-POST-LIST:END -->
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/diogorodrigues02/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/_diogorodrigues)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/jentrekin/)  [![Twitter Badge](https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/_diogorodrigues)
 
 
-**[diogorodrigues.dev](https://www.diogorodrigues.dev/)**
+**[kaylajamesllc.com](https://www.kaylajamesllc.com)**
 
-### Hi there 👋
+
 
 <!--
 **jentrekin/jentrekin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
