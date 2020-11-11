@@ -6,7 +6,7 @@ Since 2019 I've been working towards a more exciting and challenging life that b
 
 [Download my CV.](https://www.kaylajamesllc.com)
 
-### What I'm focusing on 👨‍💻
+### What I'm focusing on 💬💻
 
 Currently improving my skills: SEO, Wordpress, and Javascript.<br />
 
