@@ -11,7 +11,7 @@ Since 2019 I've been working towards a more exciting and challenging life that b
 Currently improving my skills: SEO, Wordpress, and Javascript.<br />
 
 
-### My most recent work on [dev.to](https://www.kaylajamesllc.com) 😃🧾
+### My most recent work on [my portfolio](https://www.kaylajamesllc.com) 😃🧾
 <!-- BLOG-POST-LIST:START -->
 - [Thrills of a Passport](https://jentrekin.github.io/the-jessica-adventures/)
 - [Hadley Thurman, LLC](https://jentrekin.github.io/hadley-thurman/)
