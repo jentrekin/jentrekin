@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/jentrekin/<OWNER>/<OWNER>/img_4451.jpeg "Header")
+![Header](https://raw.githubusercontent.com/jentrekin/img_4451.jpeg "Header")
 ### Hi there 👋
 
 <!--
