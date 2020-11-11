@@ -21,7 +21,7 @@ Currently improving my skills: SEO, Wordpress, and Javascript.<br />
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/jentrekin/)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=red&logo=instagram&logoColor=white&link=https://instagram.com/jentrekin)](https://instagram.com/jentrekin)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/jentrekin/)  [![Instagram Badge](https://img.shields.io/badge/-Instagram-red?style=flat-square&labelColor=red&logo=instagram&logoColor=white&link=https://instagram.com/jentrekin)](https://instagram.com/jentrekin)
 
 
 **[kaylajamesllc.com](https://www.kaylajamesllc.com)**
