@@ -13,9 +13,9 @@ Currently improving my React skills: NextJS, Gatsby JS and React Native.<br />
 
 ### My most recent work on [dev.to](https://www.kaylajamesllc.com) 😃🧾
 <!-- BLOG-POST-LIST:START -->
-- [Thrills of a Passport](https://dev.to/diogorodrigues/automating-ui-tests-with-jest-and-react-testing-library-28fb)
-- [Hadley Thurman, LLC](https://dev.to/diogorodrigues/inspiring-web-designers-and-developers-to-follow-on-twitter-2p84)
-- [Unplugged](https://dev.to/diogorodrigues/why-i-decided-to-develop-my-site-in-gatsby-3poc)
+- [Thrills of a Passport](https://jentrekin.github.io/the-jessica-adventures/)
+- [Hadley Thurman, LLC](https://jentrekin.github.io/hadley-thurman/)
+- [Unplugged](https://jentrekin.github.io/unplugged-retreat/)
 - [Warstone Innovations, LLC](https://www.warstoneinnovations.com)
 <!-- BLOG-POST-LIST:END -->
 
